@@ -75,6 +75,7 @@ const Link = styled.a`
   padding: 10px 21px;
   text-align: center;
   text-transform: none;
+  text-decoration: none;
   transition: color 0.13s ease-in-out, background 0.13s ease-in-out,
     opacity 0.13s ease-in-out, box-shadow 0.13s ease-in-out;
   user-select: none;
@@ -113,9 +114,9 @@ export default function Header() {
         <Title>{HEADER_TEXT[isEngText].title}</Title>
         <Description>{HEADER_TEXT[isEngText].description}</Description>
         <Links>
-          <Link>Download</Link>
-          <Link>Github</Link>
-          <Link>Contact</Link>
+          <Link href="https://github.com/c9u11/koen/releases">Download</Link>
+          <Link href="https://github.com/c9u11/koen">Github</Link>
+          <Link href="https://c9u11.github.io/koen/issue">Issue</Link>
         </Links>
       </Flex1>
     </Container>
