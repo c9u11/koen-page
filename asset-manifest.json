@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/koen-page/static/css/main.97b501bf.css",
-    "main.js": "/koen-page/static/js/main.748cf883.js",
+    "main.css": "/koen-page/static/css/main.6ca8d649.css",
+    "main.js": "/koen-page/static/js/main.573c12de.js",
     "static/js/787.a6c25073.chunk.js": "/koen-page/static/js/787.a6c25073.chunk.js",
     "index.html": "/koen-page/index.html",
-    "main.97b501bf.css.map": "/koen-page/static/css/main.97b501bf.css.map",
-    "main.748cf883.js.map": "/koen-page/static/js/main.748cf883.js.map",
+    "main.6ca8d649.css.map": "/koen-page/static/css/main.6ca8d649.css.map",
+    "main.573c12de.js.map": "/koen-page/static/js/main.573c12de.js.map",
     "787.a6c25073.chunk.js.map": "/koen-page/static/js/787.a6c25073.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97b501bf.css",
-    "static/js/main.748cf883.js"
+    "static/css/main.6ca8d649.css",
+    "static/js/main.573c12de.js"
   ]
 }
