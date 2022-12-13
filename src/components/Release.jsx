@@ -40,7 +40,7 @@ export default function Release() {
     <Container>
       {data.map((v) => {
         return (
-          <Item>
+          <Item key={v.version}>
             <span>{v.version}</span>
             <Title>{v.title}</Title>
             <pre>{v.description}</pre>
