@@ -109,7 +109,7 @@ export default function Header() {
     <Container>
       <Flex1>
         <Logo onClick={toggleText}>
-          <LogoImg src="/img/logo.png" alt="logo"></LogoImg>
+          <LogoImg src="img/logo.png" alt="logo"></LogoImg>
         </Logo>
         <Title>{HEADER_TEXT[isEngText].title}</Title>
         <Description>{HEADER_TEXT[isEngText].description}</Description>

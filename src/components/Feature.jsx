@@ -36,7 +36,7 @@ export default function Feature() {
         <p>단축키 하나로 편리하게 한글과 영어를 변환할 수 있습니다.</p>
       </Item>
       <Item>
-        <Video loop autoPlay muted src="/video/convertText.mov"></Video>
+        <Video loop autoPlay muted src="video/convertText.mov"></Video>
         <h2>원하는 텍스트만 변환</h2>
         <p>
           드래그된 텍스트를 인식하여 전체 또는 일부만 별도로 변환 가능합니다.
