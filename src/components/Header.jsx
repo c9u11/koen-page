@@ -96,7 +96,8 @@ const HEADER_TEXT = {
   },
   false: {
     title: "ㅏㅐ뚜",
-    description: "ㅖ갷ㄱ므 새 채ㅜㅍㄷㄱㅅ ㅅㄷㅌㅅ 새 ㅏㅐㄱㄷ무 ㅐㄱ뚜히ㅑ노",
+    description:
+      "ㅖ갷ㄱ므 새 채ㅜㅍㄷㄱㅅ ㅅㄷㅌㅅ 새 ㅏㅐㄱㄷ무 ㅐㄱ 뚜히ㅑ노",
   },
 };
 
