@@ -31,7 +31,7 @@ export default function Feature() {
   return (
     <Container>
       <Item>
-        <Img src="/img/apps.png"></Img>
+        <Img src="img/apps.png"></Img>
         <h2>언제 어디서나 어떤 프로그램이든</h2>
         <p>단축키 하나로 편리하게 한글과 영어를 변환할 수 있습니다.</p>
       </Item>
