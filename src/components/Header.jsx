@@ -117,7 +117,7 @@ export default function Header() {
         <Links>
           <Link href="https://github.com/c9u11/koen/releases">Download</Link>
           <Link href="https://github.com/c9u11/koen">Github</Link>
-          <Link href="https://c9u11.github.io/koen/issue">Issue</Link>
+          <Link href="https://github.com/c9u11/koen/issues">Issue</Link>
         </Links>
       </Flex1>
     </Container>
